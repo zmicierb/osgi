@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.osgi:org.osgi.core:4.2.0" type="repository">
+    <properties maven-id="org.osgi:org.osgi.core:4.2.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.osgi.core-4.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

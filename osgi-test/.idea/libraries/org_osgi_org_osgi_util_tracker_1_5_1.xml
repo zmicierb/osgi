@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.osgi:org.osgi.util.tracker:1.5.1" type="repository">
+    <properties maven-id="org.osgi:org.osgi.util.tracker:1.5.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.osgi.util.tracker-1.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
